@@ -1,0 +1,18 @@
+{
+  "targets": {
+    "jokespwa2020": {
+      "hosting": {
+        "awesomeProject": [
+          "jokespwa2020"
+        ]
+      }
+    },
+    "awesomeproject-e2ddf": {
+      "hosting": {
+        "awesomeProject": [
+          "awesomeproject-e2ddf"
+        ]
+      }
+    }
+  }
+}
